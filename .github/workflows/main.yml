@@ -17,3 +17,5 @@ jobs:
   
     - name: Run Python script
       run: python practice1.py
+    - name: Run Python script2
+      run:  echo "Hello Anjalika"
